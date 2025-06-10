@@ -15,18 +15,7 @@ const Demo = () => {
                         <div className="font-mono text-sm">
                             <span className="text-blue-600">Problem:</span> 2x + 5 = 15
                         </div>
-                        <div className="font-mono text-sm">
-                            <span className="text-green-600">Step 1:</span> 2x = 15 - 5
-                        </div>
-                        <div className="font-mono text-sm">
-                            <span className="text-green-600">Step 2:</span> 2x = 10
-                        </div>
-                        <div className="font-mono text-sm">
-                            <span className="text-purple-600">Answer:</span> x = 5
-                        </div>
-                        <div className="text-xs text-gray-500 mt-4 flex items-center gap-2">
-                            <Sparkles className="h-3 w-3" />
-                            AI solved this problem in 0.3 seconds
+            
                         </div>
                     </div>
                 </div>
