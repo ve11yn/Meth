@@ -1,0 +1,12 @@
+{
+    "name": "meth-app",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "cd meth-frontend && npm install && npm run build",
+        "dev": "cd meth-frontend && npm start",
+        "dev:backend": "cd meth-backend && python app.py"
+    },
+    "devDependencies": {
+        "@vercel/node": "^2.0.0"
+    }
+}
