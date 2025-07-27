@@ -2,8 +2,8 @@ Meth is a handwritten math-solver that uses a Convolutional Neural Network (CNN)
 
 ## Documentations
 ![Alt text](./assets/lamding.png)
-![Alt text](./assets/upload1.png)
-![Alt text](./assets/upload2.png)
+![Alt text](./assets/upload.png)
+![Alt text](./assets/uploads.png)
 
 Processing Steps
 ![Alt text](./assets/processing.png)
