@@ -8,5 +8,8 @@
     },
     "devDependencies": {
         "@vercel/node": "^2.0.0"
+    },
+    "dependencies": {
+        "flask": "^0.2.10"
     }
 }
